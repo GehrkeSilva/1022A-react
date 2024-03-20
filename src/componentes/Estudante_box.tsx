@@ -1,6 +1,6 @@
-/*import './Main.css'
+import './Estudante-box.css'
 
-function Main() {
+function Estudante_box() {
 
     return(
         <main>
@@ -15,4 +15,4 @@ function Main() {
         </main>
     )
 }
-export default Main*/
+export default Estudante_box
